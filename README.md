@@ -1,8 +1,7 @@
 # Hi, I'm Santhosh! 👋
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-  
-🎓 **Data Scientist** | 💼 **Senior P2P Agent at Accenture**  
 
+
+🎓 **Data Scientist** | 💼 **Senior P2P Agent at Accenture**  
 I recently completed my Data Science program and have been working as a **Procure-to-Pay (P2P)** Agent at Accenture since 2016. With a strong background in both technical and business domains, I am passionate about leveraging data to drive insights and create value. 
 
 ## 🛠️ Skills 🛠️ 
@@ -10,12 +9,7 @@ I recently completed my Data Science program and have been working as a **Procur
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Machine Learning**: Scikit-learn
 - **Version Control**: Git, GitHub
-- **Tools**: Power BI, Streamlit, Jupyter Notebook,VS Code, Neovim  
-
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"/> <img height="50" width="50" src="https://www.google.com/imgres?q=data%20science%20matplotlib%20pyplot%20icon&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F215%2F492%2Fpng-transparent-matplotlib-python-computer-software-introduction-to-algorithms-angle-symmetry-plot.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-ilqxy&docid=nUm59mAkWNQdTM&tbnid=tXHvCqE1DS33YM&vet=12ahUKEwjbgfCO9b6KAxWbRmcHHfe8FioQM3oECBcQAA..i&w=920&h=863&hcb=2&ved=2ahUKEwjbgfCO9b6KAxWbRmcHHfe8FioQM3oECBcQAA"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=fLrxgaxCrjaZ&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/> 
-
-
-
+- **Tools**: Power BI, Streamlit, Jupyter Notebook,VS Code, Neovim, Qutebrowser  
 
 ---
 
@@ -28,13 +22,11 @@ I'm passionate about taking on challenging data science projects that help busin
 - **Business Intelligence Solutions** : Interactive dashboards for monitoring and analytics.
 
 Let's connect and discuss how I can help drive value for your business!
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
-
 
 ---
 
 ## Projects
-### 🌟 **[Airbnb Data Analysis](https://github.com/Santhosh-Analytics/Airbnb-Analysis.git)** 
+### 🌟 **[Airbnb Data Analysis]()** 
 **Objective**: Developed a comprehensive data analysis solution for Airbnb listings using MongoDB Atlas, creating a **Streamlit web application** and **Power BI dashboard** for interactive visualization and actionable insights.
 
 **Description**: This project focused on analyzing Airbnb listings to derive key insights and trends for better decision-making. The process involved:
