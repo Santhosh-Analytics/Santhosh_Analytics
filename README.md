@@ -1,7 +1,8 @@
 # Hi, I'm Santhosh! 👋
 
-
+  
 🎓 **Data Scientist** | 💼 **Senior P2P Agent at Accenture**  
+
 I recently completed my Data Science program and have been working as a **Procure-to-Pay (P2P)** Agent at Accenture since 2016. With a strong background in both technical and business domains, I am passionate about leveraging data to drive insights and create value. 
 
 ## 🛠️ Skills 🛠️ 
@@ -26,7 +27,7 @@ Let's connect and discuss how I can help drive value for your business!
 ---
 
 ## Projects
-### 🌟 **[Airbnb Data Analysis]()** 
+### 🌟 **[Airbnb Data Analysis](git@github.com:Santhosh-Analytics/Airbnb-Analysis.git)** 
 **Objective**: Developed a comprehensive data analysis solution for Airbnb listings using MongoDB Atlas, creating a **Streamlit web application** and **Power BI dashboard** for interactive visualization and actionable insights.
 
 **Description**: This project focused on analyzing Airbnb listings to derive key insights and trends for better decision-making. The process involved:
