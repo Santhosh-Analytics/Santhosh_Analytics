@@ -27,7 +27,7 @@ Let's connect and discuss how I can help drive value for your business!
 ---
 
 ## Projects
-### 🌟 **[Airbnb Data Analysis](git@github.com:Santhosh-Analytics/Airbnb-Analysis.git)** 
+### 🌟 **[Airbnb Data Analysis](https://github.com/Santhosh-Analytics/Airbnb-Analysis.git)** 
 **Objective**: Developed a comprehensive data analysis solution for Airbnb listings using MongoDB Atlas, creating a **Streamlit web application** and **Power BI dashboard** for interactive visualization and actionable insights.
 
 **Description**: This project focused on analyzing Airbnb listings to derive key insights and trends for better decision-making. The process involved:
