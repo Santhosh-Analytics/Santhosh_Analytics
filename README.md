@@ -81,8 +81,33 @@ This project demonstrates my proficiency in working with diverse tools and my ab
 This project aimed to uncover patterns and insights within the insurance dataset and leverage machine learning for predictive and prescriptive analytics. Key components include:
 
 - **Customer Segmentation**: Created clustering models to group customers into meaningful segments for personalized marketing strategies and product recommendations.
+  - **Clustering Metrics:**
+    - **Unique Values for Clusters**: [0, 1]
+    - **Silhouette Score**: 0.7786
+    - **Calinski-Harabasz Score**: 5821.8560
+    - **Davies-Bouldin Score**: 0.2977
 
 - **Customer Classification**: Developed a classification model to predict whether a customer is likely to purchase a product, enabling targeted engagement.
+  - **Model Performance Metrics:**
+    | Metric | GB Classifier | HGB Classifier | XGB Classifier | ADA Classifier | ADA Classifier (Tuned) |
+    |---------------------------|---------------|----------------|----------------|----------------|------------------------|
+     | **Test Accuracy** | 0.8867 | 0.8700 | 0.8667 | 0.8900 | 0.9033 |
+     | **Train Accuracy** | 0.9889 | 1.0000 | 1.0000 | 0.9476 | 0.9395 |
+    | **Test Precision** | 0.8858 | 0.8686 | 0.8641 | 0.8926 | 0.9057 |
+    | **Train Precision** | 0.9890 | 1.0000 | 1.0000 | 0.9478 | 0.9398 |
+     | **Test Recall** | 0.8867 | 0.8700 | 0.8667 | 0.8900 | 0.9033 |
+    | **Train Recall** | 0.9889 | 1.0000 | 1.0000 | 0.9476 | 0.9395 |
+    | **Test F1-Score** | 0.8862 | 0.8692 | 0.8650 | 0.8910 | 0.9042 |
+     | **Train F1-Score** | 0.9889 | 1.0000 | 1.0000 | 0.9476 | 0.9395 |
+     | **Test Balanced Accuracy**| 0.8511 | 0.8278 | 0.8176 | 0.8693 | 0.8864 |
+    | **Train Balanced Accuracy**| 0.9889 | 1.0000 | 1.0000 | 0.9476 | 0.9395 |
+     | **Test Specificity** | 0.8511 | 0.8278 | 0.8176 | 0.8693 | 0.8864 |
+  - **Confusion Matrix:**
+    
+    | Metrics | GB Classifier | HGB Classifier | XGB Classifier | ADA Classifier | ADA Classifier (Tuned) |
+    |----------------|---------------------|--------------------|---------------------|---------------------|------------------------|
+     | **Test** | [[204, 16], [18, 62]]| [[202, 18], [21, 59]] | [[203, 17], [23, 57]] | [[201, 19], [14, 66]] | [[203, 17], [12, 68]] |
+    | **Train** | [[493, 3], [8, 488]] | [[496, 0], [0, 496]] | [[496, 0], [0, 496]] | [[465, 31], [21, 475]]| [[460, 36], [24, 472]] |
 
 - **Premium Prediction**: Built a regression model to predict insurance premium amounts accurately.
     - **Model Performance Metrics**:
