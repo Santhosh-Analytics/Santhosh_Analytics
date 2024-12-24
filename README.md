@@ -59,7 +59,7 @@ Let's connect and discuss how I can help drive value for your business!
 ---
 
 ## Projects
-### 🌟 **[Airbnb Data Analysis]()** 
+### 🌟 **[Airbnb Data Analysis](https://github.com/Santhosh-Analytics/Airbnb-Analysis.git)** 
 **Objective**: Developed a comprehensive data analysis solution for Airbnb listings using MongoDB Atlas, creating a **Streamlit web application** and **Power BI dashboard** for interactive visualization and actionable insights.
 
 **Description**: This project focused on analyzing Airbnb listings to derive key insights and trends for better decision-making. The process involved:
@@ -85,8 +85,12 @@ This project aimed to uncover patterns and insights within the insurance dataset
 - **Customer Classification**: Developed a classification model to predict whether a customer is likely to purchase a product, enabling targeted engagement.
 
 - **Premium Prediction**: Built a regression model to predict insurance premium amounts accurately.
+    - **Model Performance Metrics**:
+    |                  Metric                         |            AdaBoost Regressor               |       Gradient Boosting Regressor         |       XGB Regressor       |        KNeighbors Regressor   |     |-------------------------------------------------|---------------------------------------------|-------------------------------------------|---------------------------|-------------------------------|     | **Test R2 Score**                               | 0.9574                                      | 0.9624                                    | 0.9561                    | 0.9627                        |     | **Test Mean Squared Error (MSE)**               | 141,183,511.2981                            | 124,603,332.7132                          | 145,506,323.5775          | 123,525,769.0713              |     | **Test Root Mean Squared Error (RMSE)**         | 11,882.0668                                 | 11,162.5863                               | 12,062.6002               | 11,114.2147                   |
+
 - **Interactive Dashboard**: Designed a **Power BI dashboard** to visualize customer data, trends, and key metrics.
 - **Streamlit Web App**: Created an intuitive interface where users can interact with machine learning models, making predictions and exploring data insights seamlessly.
+
 - **Presentation and Recommendations**: Delivered actionable insights and business recommendations in a professional presentation to highlight project outcomes and strategies.
 
 This project showcases my ability to integrate machine learning, data visualization, and practical insights into real-world business scenarios.
@@ -94,6 +98,7 @@ This project showcases my ability to integrate machine learning, data visualizat
 **Tech Stack**: Python, Machine Learning, Data preprocessing, Visualization, EDA, Streamlit, MongoDB, PowerBI.
 
 ---
+## **[Other Projects Details/Readme]()**
 
 ## 💼️ A Bit More About Me 💼️
 I recently completed my Data Science program. I am driven by a passion for solving complex problems through data and technology. My goal is to continuously learn and grow in the field of Data Science, while also making meaningful contributions to the organizations I work with. I believe in the power of collaboration, continuous improvement, and leveraging data to drive impactful decisions. Over the years, I've developed both technical and business skills, and my long-term aspiration is to contribute to projects that use data science to create sustainable value and improve lives.
