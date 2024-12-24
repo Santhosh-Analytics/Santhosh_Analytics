@@ -9,8 +9,9 @@ I recently completed my Data Science program and have been working as a **Procur
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Machine Learning**: Scikit-learn
 - **Version Control**: Git, GitHub
-- **Tools**: Power BI, Streamlit, Jupyter Notebook,VS Code, Neovim, Qutebrowser  
+- **Tools**: Power BI, Streamlit, Jupyter Notebook,VS Code, Neovim,  
 
+<img height="50" width="50" src="icons8-python-48.png"/> <img height="50" width="50" src="icons8-sql-50.png"/> <img height="50" width="50" src="icons8-mongodb-48.png"/> <img height="50" width="50" src="icons8-sci-kit-48.png"/> <img height="50" width="50" src="icons8-pandas-48.png"/> <img height="50" width="50" src="icons8-numpy-48.png"/> <img height="50" width="50" src="matplot.png"/> <img height="50" width="50" src="seaborn.png"/> <img height="50" width="50" src="icons8-git-48.png"/> <img height="50" width="50" src="icons8-github-50.png"/> <img height="50" width="50" src="icons8-power-bi-48.png"/> <img height="50" width="50" src="icons8-streamlit-48.png"/> <img height="50" width="50" src="icons8-jupyter-48.png"/> <img height="50" width="50" src="icons8-vs-code-48.png"/> <img height="50" width="50" src="icons8-vim-48.png"/> 
 ---
 
 ## 👨‍💻 Open for Freelance Projects! 👨‍💻
