@@ -31,11 +31,10 @@ I recently completed my Data Science program and have been working as a **Procur
 ## 🔧 Learning 🔧
 
 
-- ![Deep Learning Icon](icons8-artificial-intelligence-64.png) **Deep Learning**
-- ![AWS Icon](icons8-aws-48.png) **AWS**
-- ![Google Cloud Icon](icons8-google-cloud-platform-48.png) **Google Cloud Platform (GCP)**
-- ![Azure Icon](icons8-azure-48.png) **Azure**
-- ![Docker Icon](icons8-docker-48.png) **Docker**
+
+| ![DL Icon](icons8-artificial-intelligence-64.png) <br> Deep Learning | ![AWS Icon](icons8-aws-48.png) <br> AWS | ![GCP Icon](icons8-google-cloud-platform-48.png) <br> Google Cloud Platform | ![Azure Icon](icons8-azure-48.png) <br> Azure | ![Docker Icon](icons8-docker-48.png) <br> Docker |
+|:-------------------------------------------------:|:--------------------------------------:|:------------------------------------------------:|:------------------------------------:|:---------------------------------:|
+
 ---
 
 ## 👨‍💻 Open for Freelance Projects! 👨‍💻
@@ -96,10 +95,14 @@ This project showcases my ability to integrate machine learning, data visualizat
 
 ---
 
-## 💼️ A Bit More About Me Professionally 💼️
-I recently completed my Data Science program. I am currently working at Trans. Processing Sr.Analyst at Accenture Solutions Pct Ltd.
+## 💼️ A Bit More About Me 💼️
+I recently completed my Data Science program. I am driven by a passion for solving complex problems through data and technology. My goal is to continuously learn and grow in the field of Data Science, while also making meaningful contributions to the organizations I work with. I believe in the power of collaboration, continuous improvement, and leveraging data to drive impactful decisions. Over the years, I've developed both technical and business skills, and my long-term aspiration is to contribute to projects that use data science to create sustainable value and improve lives.
+
+
+I am currently working at Trans. Processing Sr.Analyst at Accenture Solutions Pct Ltd.
 - Creating, Maintaining POs and other strategic support for dedicated business groups.
 - Created & Published PBI Dashboards and Power Apps with strategic automation.
+
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Analytics&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-Analytics&layout=compact&theme=radical)
