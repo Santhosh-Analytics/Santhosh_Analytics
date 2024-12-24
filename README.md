@@ -86,7 +86,11 @@ This project aimed to uncover patterns and insights within the insurance dataset
 
 - **Premium Prediction**: Built a regression model to predict insurance premium amounts accurately.
     - **Model Performance Metrics**:
-    |                  Metric                         |            AdaBoost Regressor               |       Gradient Boosting Regressor         |       XGB Regressor       |        KNeighbors Regressor   |     |-------------------------------------------------|---------------------------------------------|-------------------------------------------|---------------------------|-------------------------------|     | **Test R2 Score**                               | 0.9574                                      | 0.9624                                    | 0.9561                    | 0.9627                        |     | **Test Mean Squared Error (MSE)**               | 141,183,511.2981                            | 124,603,332.7132                          | 145,506,323.5775          | 123,525,769.0713              |     | **Test Root Mean Squared Error (RMSE)**         | 11,882.0668                                 | 11,162.5863                               | 12,062.6002               | 11,114.2147                   |
+  
+| Metric | AdaBoost Regressor | Gradient Boosting Regressor | XGB Regressor | KNeighbors Regressor |
+|---------------------------------|--------------------|-----------------------------|---------------|----------------------| 
+| **Test R2 Score** | 0.9574 | 0.9624 | 0.9561 | 0.9627 | 
+| **Test Mean Squared Error (MSE)**| 141,183,511.2981 | 124,603,332.7132 | 145,506,323.5775| 123,525,769.0713 | | **Test Root Mean Squared Error (RMSE)**| 11,882.0668 | 11,162.5863 | 12,062.6002 | 11,114.2147 |
 
 - **Interactive Dashboard**: Designed a **Power BI dashboard** to visualize customer data, trends, and key metrics.
 - **Streamlit Web App**: Created an intuitive interface where users can interact with machine learning models, making predictions and exploring data insights seamlessly.
