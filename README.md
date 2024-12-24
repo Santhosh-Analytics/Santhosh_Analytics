@@ -91,3 +91,6 @@ This project showcases my ability to integrate machine learning, data visualizat
 I recently completed my Data Science program. I am currently working at Trans. Processing Sr.Analyst at Accenture Solutions Pct Ltd.
 - Creating, Maintaining POs and other strategic support for dedicated business groups.
 - Created & Published PBI Dashboards and Power Apps with strategic automation.
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Analytics&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-Analytics&layout=compact&theme=radical)
