@@ -27,6 +27,15 @@ I recently completed my Data Science program and have been working as a **Procur
 - **Tools**: Power BI, Streamlit, Jupyter Notebook,VS Code, Neovim,  
 
 <img height="50" width="50" src="icons8-python-48.png"/> <img height="50" width="50" src="icons8-sql-50.png"/> <img height="50" width="50" src="icons8-mongodb-48.png"/> <img height="50" width="50" src="icons8-sci-kit-48.png"/> <img height="50" width="50" src="icons8-pandas-48.png"/> <img height="50" width="50" src="icons8-numpy-48.png"/> <img height="50" width="50" src="matplot.png"/> <img height="50" width="50" src="seaborn.png"/> <img height="50" width="50" src="icons8-git-48.png"/> <img height="50" width="50" src="icons8-github-50.png"/> <img height="50" width="50" src="icons8-power-bi-48.png"/> <img height="50" width="50" src="icons8-streamlit-48.png"/> <img height="50" width="50" src="icons8-jupyter-48.png"/> <img height="50" width="50" src="icons8-vs-code-48.png"/> <img height="50" width="50" src="icons8-vim-48.png"/> 
+
+## 🔧 Learning 🔧
+
+
+- ![Deep Learning Icon](icons8-artificial-intelligence-64.png) **Deep Learning**
+- ![AWS Icon](icons8-aws-48.png) **AWS**
+- ![Google Cloud Icon](icons8-google-cloud-platform-48.png) **Google Cloud Platform (GCP)**
+- ![Azure Icon](icons8-azure-48.png) **Azure**
+- ![Docker Icon](icons8-docker-48.png) **Docker**
 ---
 
 ## 👨‍💻 Open for Freelance Projects! 👨‍💻
