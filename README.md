@@ -1,7 +1,22 @@
-# Hi, I'm Santhosh! 👋
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <span><h1>Hi, I'm Santhosh! 👋
+  
+  <a href="mailto:sansuganyas@outlook.com" style="margin-right: 1px; text-decoration: none;">
+  <img align="right" src="icons8-email-48.png" alt="Email Icon" style="height: 50px; width: 50px; vertical-align: middle;">
+  </a>
+  <a href="https://santhosh-analytics.github.io/" style="margin-right: 1px; text-decoration: none;">
+    <img  align="right" src="icons8-portfolio-64.png" alt="Portfolio Icon" style="height: 50px; width: 50px; vertical-align: middle;">
+  </a>
+  <a href="https://www.linkedin.com/in/santhosh-analytics" style="text-decoration: none;">
+    <img  align="right" src="icons8-linkedin-logo-48.png" alt="LinkedIn Icon" style="height: 50px; width: 50px; vertical-align: middle;"> </a>
+  </h1></span>
+</div>
+
+
 
 
 🎓 **Data Scientist** | 💼 **Senior P2P Agent at Accenture**  
+
 I recently completed my Data Science program and have been working as a **Procure-to-Pay (P2P)** Agent at Accenture since 2016. With a strong background in both technical and business domains, I am passionate about leveraging data to drive insights and create value. 
 
 ## 🛠️ Skills 🛠️ 
@@ -23,6 +38,15 @@ I'm passionate about taking on challenging data science projects that help busin
 - **Business Intelligence Solutions** : Interactive dashboards for monitoring and analytics.
 
 Let's connect and discuss how I can help drive value for your business!
+
+  <a href="mailto:sansuganyas@outlook.com" style="margin-right: 1px; text-decoration: none;">
+  <img align="center" src="icons8-email-48.png" alt="Email Icon" style="height: 50px; width: 50px; vertical-align: middle;">
+  </a>
+  <a href="https://santhosh-analytics.github.io/" style="margin-right: 1px; text-decoration: none;">
+    <img  align="center" src="icons8-portfolio-64.png" alt="Portfolio Icon" style="height: 50px; width: 50px; vertical-align: middle;">
+  </a>
+  <a href="https://www.linkedin.com/in/santhosh-analytics" style="text-decoration: none;">
+    <img  align="center" src="icons8-linkedin-logo-48.png" alt="LinkedIn Icon" style="height: 50px; width: 50px; vertical-align: middle;"> </a>
 
 ---
 
